@@ -52,4 +52,4 @@ Next, we will handle missing values.
 
 Many cells contain a "?" as an entry, which is not detected as a missing value, so we will convert cells with ?'s to na's.
 
-![Importing Libraries](https://github.com/Simian12/Project_4/blob/main/images/Transform%20data%20.png?raw=true)
+![Importing Libraries](https://github.com/Simian12/Project_4/blob/main/images/converting%20.png?raw=true)
