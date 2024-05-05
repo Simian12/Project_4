@@ -25,4 +25,18 @@ Columns:
 - ca number of major vessels (0-3) colored by flourosopy
 - thal
 
+**Data Tools Used**
+- Data Retrieval: Panda, Ucimlrepo
+- Cleaning data: Panda
+- Data visualization Tools:
+- Anazlying Data: Pandas,Scikit
+
+**Setting up data**
+
+
+**Transforming data**
+
+
+**Cleaning data**
+
 
