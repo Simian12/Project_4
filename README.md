@@ -46,7 +46,7 @@ We will import four datasets and combine them into one DataFrame. We will fetch 
 
 The dataset contains a categorical variable, `num`, which indicates the presence and severity of heart disease on a scale of 0 to 4. For the purpose of our analysis, we will convert this to a binary variable that indicates the presence of heart disease.
 
-![Impoting Libraries](https://github.com/Simian12/Project_4/blob/main/images/Cleaning%20data%20pt1%20.png?raw=true)
+![Impoting Libraries](https://github.com/Simian12/Project_4/blob/main/images/Transform%20data%20.png?raw=true)
 
 Next, we will handle missing values. 
 
