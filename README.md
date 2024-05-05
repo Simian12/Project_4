@@ -37,6 +37,8 @@ We will import four datasets and combine them into one DataFrame. We will fetch 
 
 ![Importing Libraries](https://github.com/Simian12/Project_4/blob/main/images/Importing%20data.png?raw=true)
 
+![Importing Libraries](https://github.com/Simian12/Project_4/blob/main/images/remaining%20imports.png?raw=true)
+
 
 **Transforming data**
 
