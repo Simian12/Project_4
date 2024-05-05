@@ -31,8 +31,9 @@ Columns:
 - Data visualization Tools:
 - Anazlying Data: Pandas,Scikit
 
-**Setting up data**
+
 ![Importing Libraries](https://github.com/Simian12/Project_4/blob/main/images/Importing%20data.png?raw=true)
+**Setting up data**
 
 **Transforming data**
 
