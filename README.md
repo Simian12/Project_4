@@ -31,9 +31,12 @@ Columns:
 - Data visualization Tools:
 - Anazlying Data: Pandas,Scikit
 
+**Extracting Data**
+
+We will import four datasets and combine them into one DataFrame. We will fetch the Cleveland data using the `ucimlrepo` library first, because this dataset contains the proper column headers, and the other three datasets do not. Next, we will import the data from the other three locations-- Hungary, Switzerland, and VA Long Beach-- which we downloaded as .data files from the UC repo. Finally, we will combine the four locations into one dataset.
 
 ![Importing Libraries](https://github.com/Simian12/Project_4/blob/main/images/Importing%20data.png?raw=true)
-**Setting up data**
+
 
 **Transforming data**
 
