@@ -32,8 +32,8 @@ Columns:
 - Anazlying Data: Pandas,Scikit
 
 **Setting up data**
-![Importing libraries](https://github.com/Simian12/Project_1/blob/emely/images./Importing%20Libraries:Loaded%20dataset.png?raw=true)
 ![Importing Libraries](https://github.com/Simian12/Project_4/blob/main/images/Importing%20data.png?raw=true)
+
 **Transforming data**
 
 
