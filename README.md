@@ -55,6 +55,6 @@ Many cells contain a "?" as an entry, which is not detected as a missing value, 
 **Cleaning data**
 Some columns contain cells with identical values that are being read as two separate numbers, as we saw above.
 
-![Importing Libraries](https://github.com/Simian12/Project_4/blob/main/images/Cleaning%20data%20pt1%20.png?raw=true)
+![Importing Libraries](https://github.com/Simian12/Project_4/blob/main/images/Cleaning%20data%20pt.2.png?raw=true)
 
-![Importing Libraries](https://github.com/Simian12/Project_4/blob/main/images/Cleaning%20data%20pt1%20.png?raw=true)****
+
