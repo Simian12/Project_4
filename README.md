@@ -1,6 +1,6 @@
 **heart disease**
 
-**Predictting whether a person has heart disease through mechin learning**
+**Predicting heart disease through mechine learning**
 
 The primary objective is to utilize machine learning models on a dataset of patient information to predict whether a person has heart disease.
 
