@@ -1,6 +1,4 @@
-CREATE DATABASE heart_data;
-
--- DROP TABLE IF EXISTS heart_data;
+CREATE DATABASE heart_database;
 
 CREATE TABLE "heart_data" (
     "age" INT,
