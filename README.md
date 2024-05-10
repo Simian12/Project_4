@@ -111,4 +111,15 @@ Finally, the method compiles the model with binary cross-entropy loss and the Ad
 
 ![Importing Libraries](https://github.com/Simian12/Project_4/blob/main/images/Creating%20heart_model_method2.png?raw=true)
 
+We set to train the model for 100 epochs using the training data X_train_scaled and y_train, while validating it on the test data X_test_scaled and y_test. This process helps optimize the model's performance by exploring different combinations of hyperparameters. 
+
+![Importing Libraries](https://github.com/Simian12/Project_4/blob/main/images/Kerastuner%20search.png?raw=true)
+
+Finally we evaluates the best model found during the hyperparameter search using Keras Tuner against the full test data. 
+
+It retrieves the best model from the tuner, evaluates its performance on the scaled test data X_test_scaled and y_test, and prints out the loss and accuracy metrics. 
+
+This step helps us understand how well the optimized model performs on unseen data
+
+![Importing Libraries](https://github.com/Simian12/Project_4/blob/main/images/model2_data_test.png?raw=true)
 
