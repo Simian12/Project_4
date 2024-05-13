@@ -1,4 +1,4 @@
-**heart disease**
+**Heart Disease**
 
 **Predicting heart disease through machine learning**
 
@@ -80,6 +80,7 @@ After that, we're converting boolean variables to binary to make them easier to 
 
 
 **Training the Data**
+
 Next, we split our data into two parts: 'y' represents the target variable, and 'X' contains all the other features. 
 
 This helps us evaluate how well our model performs on new, unseen data. We use 75% of the data for training and 25% for testing.
@@ -89,11 +90,13 @@ Finally, we check the shape of our training set to see how many rows and columns
 ![Importing Libraries](https://github.com/Simian12/Project_4/blob/main/images/LR%20training%20and%20testing%20data.png?raw=true)
 
 **Creating Model**
+
 moving into to building our logistic regression model. First, we create the model using the Logistic Regression function, specifying parameters like the solver for optimization, maximum iterations, and setting a random state for reproducibility.
 Then, we fit the model using our training data. This means the model learns from the patterns in the data, trying to understand how features relate to the target variable.
 After that, we use the model to make predictions on our testing data. The model uses what it learned during training to predict the target variable for the testing data. This way, we can see how well our model performs on new, unseen data."
 
 **Evalute The Models Performance**
+
 so now we're evaluating our logistic regression model. We generate a confusion matrix, which shows us how many true positives, true negatives, false positives, and false negatives our model predicted.
 
 Then, we print out a classification report. This report gives us a summary of how well our model performed, including metrics like precision, recall, and F1-score for each class in our target variable.
@@ -102,25 +105,24 @@ Together, these help us understand how accurately our model is classifying insta
 
 ![Importing Libraries](https://github.com/Simian12/Project_4/blob/main/images/Evaluate%20Models%20Performance.png?raw=true)
 
-Classifier Models
+**Classifier Models**
 
 We began by preparing our data, separating the target variable 'Heart Disease' from the features. 
-
-
 Then, we split our data into training and testing sets, maintaining the class distribution using stratified sampling.
 
+![Importing Libraries](https://github.com/Simian12/Project_4/blob/main/images/Classifier%20Models%201.png?raw=true)
 
 Next, we defined six classification models: Logistic Regression, Support Vector Machine (SVM), Naive Bayes, K-Nearest Neighbors (KNN), Decision Tree Classifier, and Random Forest Classifier. 
-
-
-
 After that, we trained each model using the training data. Subsequently, we evaluated the models by making predictions on the test set and calculating their accuracy scores. 
 
+![Importing Libraries](https://github.com/Simian12/Project_4/blob/main/images/Classifier%20Models%202.png?raw=true)
 
 Finally, we printed the accuracy scores for each model and visualized the results on a plot titled 'Accuracy.' The Naive Bayes model achieved the highest accuracy score of 65.2%, followed by Logistic Regression with 63.5%, while the Decision Tree Classifier scored the lowest at 55.6%."
 
+![Importing Libraries](https://github.com/Simian12/Project_4/blob/main/images/Classifier%20Model%203.png?raw=true)
 
-**Using Keras Tuner
+**Using Keras Tuner**
+
 We start the neural network using TensorFlow and Keras Tuner. 
 
 This allows customization of activation functions, the number of neurons in the first layer, and the number of hidden layers and neurons. 
