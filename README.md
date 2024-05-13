@@ -105,7 +105,7 @@ Together, these help us understand how accurately our model is classifying insta
 
 ![Importing Libraries](https://github.com/Simian12/Project_4/blob/main/images/Evaluate%20Models%20Performance.png?raw=true)
 
-Classifier Models
+**Classifier Models**
 
 We began by preparing our data, separating the target variable 'Heart Disease' from the features. 
 Then, we split our data into training and testing sets, maintaining the class distribution using stratified sampling.
