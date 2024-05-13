@@ -1,4 +1,4 @@
-**heart disease**
+**Heart Disease**
 
 **Predicting heart disease through machine learning**
 
