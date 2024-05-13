@@ -121,7 +121,7 @@ Finally, we printed the accuracy scores for each model and visualized the result
 
 ![Importing Libraries](https://github.com/Simian12/Project_4/blob/main/images/Classifier%20Model%203.png?raw=true)
 
-**Using Keras Tuner
+**Using Keras Tuner**
 
 We start the neural network using TensorFlow and Keras Tuner. 
 
