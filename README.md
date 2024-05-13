@@ -105,20 +105,18 @@ Together, these help us understand how accurately our model is classifying insta
 Classifier Models
 
 We began by preparing our data, separating the target variable 'Heart Disease' from the features. 
-
-
 Then, we split our data into training and testing sets, maintaining the class distribution using stratified sampling.
 
+![Importing Libraries](https://github.com/Simian12/Project_4/blob/main/images/Classifier%20Models%201.png?raw=true)
 
 Next, we defined six classification models: Logistic Regression, Support Vector Machine (SVM), Naive Bayes, K-Nearest Neighbors (KNN), Decision Tree Classifier, and Random Forest Classifier. 
-
-
-
 After that, we trained each model using the training data. Subsequently, we evaluated the models by making predictions on the test set and calculating their accuracy scores. 
 
+![Importing Libraries](https://github.com/Simian12/Project_4/blob/main/images/Classifier%20Models%202.png?raw=true)
 
 Finally, we printed the accuracy scores for each model and visualized the results on a plot titled 'Accuracy.' The Naive Bayes model achieved the highest accuracy score of 65.2%, followed by Logistic Regression with 63.5%, while the Decision Tree Classifier scored the lowest at 55.6%."
 
+![Importing Libraries](https://github.com/Simian12/Project_4/blob/main/images/Classifier%20Model%203.png?raw=true)
 
 **Using Keras Tuner
 We start the neural network using TensorFlow and Keras Tuner. 
